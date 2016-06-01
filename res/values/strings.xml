@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GLVideo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="open_file_dialog_title">Pick video</string>
+    <string name="left_video_button_text">Open Video \n &lt;-</string>
+    <string name="right_video_button_text">Open Video \n -&gt;</string>
+
+</resources>
